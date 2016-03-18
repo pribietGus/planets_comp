@@ -1,3 +1,7 @@
 Venus
 Las mujeres vienen de aqui
+<<<<<<< HEAD
+Venus es candentxe
+=======
 Es un planeta gaseoso
+>>>>>>> 9a54d4711c3ff083c01478002e9afc8f178ef27c
