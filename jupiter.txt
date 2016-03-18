@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Jupiter antes de Saturno
 
+=======
+Jupiter es tan grande
+>>>>>>> 47b60a33685d4652367011fa2bd00a107a969193
